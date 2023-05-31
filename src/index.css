@@ -1,0 +1,11 @@
+.selected-row {
+    background-color: #b1c4dd !important ; 
+    /* border: 2px solid red !important; */
+  }
+
+div[style*="z-index: 100000;"] {
+    display: none !important; 
+}
+.MuiTab-root.Mui-selected{
+  background-color: #bebdd2;
+}

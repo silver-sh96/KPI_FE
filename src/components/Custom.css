@@ -1,0 +1,158 @@
+.css-nnbavb{
+    display: none;
+}
+
+td{
+    color: #4d4e55;
+    font-size: 16px;
+}
+
+.modal-header {
+    padding: 16px 18px;
+    
+}
+
+.modal-button{
+    display: flex!important;
+    margin-bottom: 18px!important;
+    margin-top: -5px!important;
+    border: none!important;
+    justify-content: center!important;
+}
+
+.cus-bt-mr15{
+    margin-left: 10px;
+}
+
+.sCard {
+    margin: 25px 22px 14px;
+    width: 100%;
+}
+
+.sTable {
+    margin-right: 47px;
+    width: -webkit-fill-available;
+}
+
+.sTh {
+    border: solid 1px #cdcdcd;
+    background: #f5f4f4;
+    width: 12%;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 9px 9px 8px 12px;
+}
+
+.sTd{
+    border: 1px solid rgb(205, 205, 205);
+    padding: 9px;
+}
+
+.sTdCell {
+    display: flex;
+    height: 21px;
+    align-items: center;
+}
+
+.sInput {
+    height: 27px;
+    padding-left: 5px;
+    font-size: 14px;
+    width: 22rem;
+    border-width: 1.5px 1px 1px 1.5px;
+    border-style: solid;
+    border-color: rgb(152, 152, 152) rgb(205, 205, 205) rgb(205, 205, 205) rgb(152, 152, 152);
+}
+
+.sInputNum {
+    height: 27px;
+    text-align: right;
+    padding-right: 5px;
+    font-size: 14px;
+    width: 10rem;
+    border-width: 1.5px 1px 1px 1.5px;
+    border-style: solid;
+    border-color: rgb(152, 152, 152) rgb(205, 205, 205) rgb(205, 205, 205) rgb(152, 152, 152);
+}
+
+.sAreaSearch {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 47px -10px 0px;
+}
+
+.sButton{
+     border: none;
+    font-size: 13px;
+    height: 35px;
+    color: white;
+    padding: 0px 26px;
+    margin-left: 10px;
+}
+
+
+.sTool{
+    height: 45px;
+    padding-left: 13px;
+    margin-right: 44px;
+    background: rgb(222, 226, 229);
+    border-top: 1px solid rgb(205, 205, 205);
+    border-right: 1px solid rgb(205, 205, 205);
+    border-bottom: none;
+    border-left: 1px solid rgb(205, 205, 205);
+    border-image: initial;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sSideTool {
+    height: 60px;
+    padding: 10px;
+    border-bottom: 1px solid rgb(205, 205, 205);
+   border-top-right-radius: 6px;
+   border-top-left-radius: 6px;
+    border-image: initial;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sMainCard { 
+    margin: 31px;
+    width: 1618px;
+    background: white;
+    display: flex;    flex-direction: column;
+
+    border-radius: 6px;
+    box-shadow: 1px 1px 15px -2px #81818159;
+}
+
+.sMainCard2 { 
+    margin: 31px 0px 30px  0px;
+    width: 1345px;
+    background: white;
+    display: flex;
+    border-radius: 6px;
+    box-shadow: 1px 1px 15px -2px #81818159;
+}
+
+.sSideCard { 
+    margin: 31px 15px 30px  31px;
+    width: 260px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    box-shadow: 1px 1px 15px -2px #81818159;
+}
+
+.modal-header{
+    color: white;
+    background: #434f6a;
+    padding: 12px 18px;
+}
+
+.modal-title{ 
+    font-size: 17px;
+}
